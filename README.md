@@ -27,4 +27,4 @@ An edge-computing IoT prototype designed to significantly reduce urban energy co
 ## 🚀 Installation & Setup
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/smart-street-light.git](https://github.com/yourusername/smart-street-light.git)
+   git clone [https://github.com/MohdAnas-1436/Adaptive-Smart-Street-Light]
